@@ -24,10 +24,17 @@ Game of Life in Smartphone Application Development Course
 
 # Android Screenshots
 
-<img src="https://github.com/jt101015/Game-of-Life/blob/master/pic/Android_001.png"> <br>
-<img src="https://github.com/jt101015/Game-of-Life/blob/master/pic/Android_002.png"> <br>
-<img src="https://github.com/jt101015/Game-of-Life/blob/master/pic/Android_003.png"> <br>
-<img src="https://github.com/jt101015/Game-of-Life/blob/master/pic/Android_004.png"> <br>
-<img src="https://github.com/jt101015/Game-of-Life/blob/master/pic/Android_005.png"> <br>
+<img src="https://github.com/jt101015/Game-of-Life/blob/master/pic/Android_001.png" width="200" height="350"/> <br>
+<img src="https://github.com/jt101015/Game-of-Life/blob/master/pic/Android_002.png" width="200" height="350"/> <br>
+<img src="https://github.com/jt101015/Game-of-Life/blob/master/pic/Android_003.png" width="200" height="350"/> <br>
+<img src="https://github.com/jt101015/Game-of-Life/blob/master/pic/Android_004.png" width="350" height="200"/> <br>
+<img src="https://github.com/jt101015/Game-of-Life/blob/master/pic/Android_005.png" width="350" height="200"/> <br>
 
 # iOS Screenshots
+
+<img src="https://github.com/jt101015/Game-of-Life/blob/master/pic/iOS_005.png" width="200" height="350"/> <br>
+<img src="https://github.com/jt101015/Game-of-Life/blob/master/pic/iOS_001.png" width="200" height="350"/> <br>
+<img src="https://github.com/jt101015/Game-of-Life/blob/master/pic/iOS_002.png" width="350" height="200"/> <br>
+<img src="https://github.com/jt101015/Game-of-Life/blob/master/pic/iOS_003.png" width="200" height="350"/> <br>
+<img src="https://github.com/jt101015/Game-of-Life/blob/master/pic/iOS_004.png" width="200" height="350"/> <br>
+
